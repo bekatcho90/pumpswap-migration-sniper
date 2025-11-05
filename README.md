@@ -1,7 +1,8 @@
-# Raydium Migration Sniper
+# PumpSwap Migration Sniper
 
 A TypeScript bot for monitoring and executing trades on Raydium token migrations. This bot monitors Solana blockchain transactions in real-time using Geyser and automatically executes trades when migration events are detected.
 
+## - [telegram](https://t.me/roswellecho)
 ## Features
 
 -  Real-time transaction monitoring via Geyser
